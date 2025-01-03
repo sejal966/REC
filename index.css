@@ -1933,7 +1933,7 @@ text-align: center;
         
 
            
-            border-image-source:linear-gradient(to bottom, #00FF00 0%, #000000 44%, #000000 55%, #00FF00 100%);
+            /* border-image-source:linear-gradient(to bottom, #00FF00 0%, #000000 44%, #000000 55%, #00FF00 100%); */
  
  height: 250px;
  width: 95%;
