@@ -752,7 +752,7 @@ width: 30%;
     padding: 20px;
     border-radius: 15px;
     width: 30%;
-    max-height: 70%;
+    max-height: 60%;
     margin-top: 50px;
     opacity: 0;
     transform: rotate(10deg); /* 2D clockwise tilt */
@@ -807,7 +807,7 @@ width: 30%;
     justify-content: center;
     align-items: center;
     text-align: center;
- font-weight: bold;
+ /* font-weight: bold; */
    color: #000000;
     /* padding-bottom:50px; */
     padding-right: 20px;
@@ -823,6 +823,9 @@ width: 30%;
   height: 250px;
  
    box-sizing: border-box;
+ }
+ .bold{
+    font-weight: bold;
  }
 
  
@@ -2349,9 +2352,6 @@ text-align: center;
        height: 110px;
       
     }
-     .why-me-main-first1, .why-me-main-second1, .why-me-main-third1, .why-me-main-fourth1{
-    width: 80%;
-   }
     .star2{
         bottom: 14rem;
         left: 21rem;
@@ -2391,6 +2391,9 @@ text-align: center;
         width: 85px;
        
     }
+   .why-me-main-first1, .why-me-main-second1, .why-me-main-third1, .why-me-main-fourth1{
+    width: 80%;
+   }
 }
 @media screen and (max-width: 415px){
     .main_left_content{
