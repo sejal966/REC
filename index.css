@@ -1942,6 +1942,10 @@ text-align: center;
     width: 85px;
    
 }
+.why-me-main{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 }
 @media screen and (max-width: 590px){
    
@@ -2240,6 +2244,11 @@ text-align: center;
         width: 85px;
        
     }
+    .why-me-main{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+   
 };
     
 
@@ -2251,6 +2260,9 @@ text-align: center;
         left: 4rem;
         bottom: 2.5rem;
     }
+    /* .why-me-card{
+        width: 2000px;
+    } */
     .sub_left_content{
         line-height: 35px;
     }
