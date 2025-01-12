@@ -2349,6 +2349,9 @@ text-align: center;
        height: 110px;
       
     }
+     .why-me-main-first1, .why-me-main-second1, .why-me-main-third1, .why-me-main-fourth1{
+    width: 80%;
+   }
     .star2{
         bottom: 14rem;
         left: 21rem;
