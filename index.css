@@ -410,6 +410,23 @@ body{
     position: relative;
    
 }
+ .doctors-img{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    row-gap: 4rem;
+    padding-left: 50px;
+    padding-right: 50px;
+
+
+  }
+  .doctors-img img{
+    height: 200px;
+    width: 200px;
+    /* gap: 20rem; */
+    border-radius: 50%;
+  }
 
 .second-head{
     margin: 0 auto;
@@ -1866,6 +1883,16 @@ text-align: center;
         height: 45px;
         width: 45px;
     }
+    .doctors-img{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .doctors-img img{
+        height: 150px;
+        width: 150px;
+        /* gap: 20rem; */
+        border-radius: 50%;
+      }
 }@media screen and (max-width: 680px){
     .star4{
       
@@ -2544,6 +2571,15 @@ text-align: center;
        
       
     }
+    .doctors-img{
+    row-gap: 2rem;
+}
+.doctors-img img{
+    height: 80px;
+    width: 80px;
+    /* gap: 20rem; */
+    border-radius: 50%;
+  }
     .size1{
         height: 40px;
         width: 40px;
