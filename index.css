@@ -402,6 +402,7 @@ body{
 
 .expert-head{
     padding-top: 100px;
+    padding-bottom: 30px;
    color: white;
     /* text-align: center;
     display: flex;
@@ -585,7 +586,7 @@ body{
     padding-right: 50px;
    
     font-family: poppins, sans-serif;
-    margin-top: 50px;
+    margin-top: -1rem;
     width: 40vw;
     background: linear-gradient(to bottom, #ffff 0%, rgba(255, 255, 255, 0.543) 100%); /* Gradient from top to bottom */
     -webkit-background-clip: text;
