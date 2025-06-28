@@ -585,7 +585,7 @@ body{
     padding-right: 50px;
    
     font-family: poppins, sans-serif;
-    margin-top: 200px;
+    margin-top: 50px;
     width: 40vw;
     background: linear-gradient(to bottom, #ffff 0%, rgba(255, 255, 255, 0.543) 100%); /* Gradient from top to bottom */
     -webkit-background-clip: text;
