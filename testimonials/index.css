@@ -108,7 +108,7 @@ body{
 
     height: 500px;
     width: 300px;
-     border-image-source:linear-gradient(to bottom, #0df7fb 0%, #000000 44%, #000000 55%, #0df7fb 100%);
+     border-image-source:linear-gradient(to bottom, #ffde59 0%, #000000 44%, #000000 55%, #ffde59 100%);
    
     text-align: center;
     line-height: 180px; 
@@ -170,7 +170,7 @@ text-align: center;
     /*background: #00FF00;*/
 
     
-     border-image-source:linear-gradient(to bottom, #0df7fb 0%, #000000 44%, #000000 55%, #0df7fb 100%);
+     border-image-source:linear-gradient(to bottom, #ffde59 0%, #000000 44%, #000000 55%, #ffde59 100%);
    
     text-align: center;
     line-height: 180px; 
