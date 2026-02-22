@@ -20,7 +20,25 @@ body{
 
 
 
+  .video-camp{
+     display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    row-gap: 2rem;
   
+}
+.video-gradient{
+    border: 3px solid;
+    border-image-slice: 1;
+    border-width: 2px;
+   
+
+  
+     border-image-source:linear-gradient(to bottom, #ffde59 0%, #000000 44%, #000000 55%, #ffde59 100%);
+   
+   
+   }
 .second-para{
     font-size: 40px;
     line-height: 50px;
