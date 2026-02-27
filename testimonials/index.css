@@ -39,6 +39,12 @@ body{
    
    
    }
+.video-wrapper {
+    width: 300px;    /* set fixed width */
+    height: 533px;   /* keep 9:16 ratio (height = width × 16/9) */
+    margin: 0 auto;  /* center horizontally */
+    overflow: hidden; /* avoid expansion */
+  }
 .second-para{
     font-size: 40px;
     line-height: 50px;
@@ -433,4 +439,5 @@ text-align: center;
         width: 60%;
     }
 }
+
 
