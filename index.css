@@ -1162,11 +1162,11 @@ text-align: center;
     padding-right: 300px;
     text-decoration: none;
 }
-.policy, .pricing{
+.policy, .terms, .disclaimer, .refund{
     /* text-decoration: none; */
     color: white;
-    font-size: 20px;
-    text-decoration: underline;
+    font-size: 15px;
+    text-decoration: none;
 }
 .footer{
     margin-top: 300px;
