@@ -1957,12 +1957,13 @@ text-align: center;
     .footer-main{
         padding-left: 50px;
         padding-right: 50px;
+        /* text-decoration: none; */
     }
-    .policy, .pricing{
+    .policy, .terms, .disclaimer, .refund{
         /* text-decoration: none; */
         color: white;
         font-size: 15px;
-        text-decoration: underline;
+        /* text-decoration: underline; */
     }
     .second_left_content{
         padding-left: 20px;
@@ -2138,6 +2139,17 @@ text-align: center;
 
             /* padding: 60px 0 0 0 ; */
           }
+          .footer-main{
+        padding-left: 30px;
+        padding-right: 30px;
+        /* text-decoration: none; */
+    }
+    .policy, .terms, .disclaimer, .refund{
+        /* text-decoration: none; */
+        color: white;
+        font-size: 10px;
+        /* text-decoration: underline; */
+    }
           .doctors-img img{
             height: 120px;
             width: 120px;
